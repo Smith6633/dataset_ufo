@@ -5,15 +5,15 @@ The data on monthly sightings was scraped from: https://nuforc.org/
 
 Data status: The data has been pulled and can be located in the combined_data.csv file. The website is currently taking sighting reports, so data is updated on a monthly basis. 
 
-| Data Dictionary |
-| --- | --- |
-| details | link to sighting |
-| date | date of sighting |
-| city | city where sighting occured |
-| state | state where sighting occured |
-| country | country where sighting occured |
-| shape | shape of UFO |
-| summary | details of sighting |
-| report_date | date sighting was reported |
-| posted_date | date sighting was posted |
-| image | image of sighting if applicable |
+| Field        | Description                                 |
+| ------------ | ------------------------------------------- |
+| details      | Link to sighting                            |
+| date         | Date of sighting                            |
+| city         | City where sighting occurred                |
+| state        | State where sighting occurred               |
+| country      | Country where sighting occurred             |
+| shape        | Shape of UFO                                |
+| summary      | Details of sighting                         |
+| report_date  | Date sighting was reported                   |
+| posted_date  | Date sighting was posted                    |
+| image        | Image of sighting if applicable             |
