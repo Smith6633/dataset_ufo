@@ -5,6 +5,8 @@ The data on monthly sightings was scraped from: https://nuforc.org/
 
 Data status: The data has been pulled and can be located in the combined_data.csv file. The website is currently taking sighting reports, so data is updated on a monthly basis. 
 
+Data Dictionary:
+
 | Field        | Description                                 |
 | ------------ | ------------------------------------------- |
 | details      | Link to sighting                            |
@@ -17,3 +19,7 @@ Data status: The data has been pulled and can be located in the combined_data.cs
 | report_date  | Date sighting was reported                   |
 | posted_date  | Date sighting was posted                    |
 | image        | Image of sighting if applicable             |
+
+Change Log: 
+- 11/13/2023: data set integrated ready for cleaning and analysis
+- 11/12/2023: scraping completed
